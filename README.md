@@ -45,13 +45,6 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-# or using uv
-uv pip install -r requirements.txt
-```
-
 ## Usage
 
 1. Start the backend server:
@@ -83,10 +76,4 @@ Longevity_check/
 
 This application is an AI assistant providing general health information. It does not replace professional medical advice, diagnosis, or treatment. Always consult with qualified healthcare providers before making any health decisions.
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
