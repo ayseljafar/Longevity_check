@@ -13,8 +13,11 @@ A personalized AI-powered health concierge specializing in longevity and wellnes
 
 ## Demo
 
-Watch a demo of the Longevity Health Agent interface:
-[![Longevity Health Agent Demo](media/output-VEED.mp4)](media/output-VEED.mp4)
+Watch a quick demo of the Longevity Health Agent interface:
+
+![Longevity Health Agent Demo](media/demo.gif)
+
+> Note: This is a preview of the key features. [Click here to watch the full demo video](media/output-VEED.mp4)
 
 ## Tech Stack
 
